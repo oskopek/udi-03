@@ -1,0 +1,37 @@
+= Assignment 02
+
+== Task -- Translation
+
+What does the program do?
+
+Write a program that acts exactly the same as the link:translate_me.pas[provided one], in your favourite language (other than Pascal).
+
+*Hint*: "Translate" does not mean you have to rewrite it line by line.
+
+If you only know Pascal, try translating link:translate_me.py[this one] into Pascal.
+
+Remember to commit and push your work.
+
+== Task -- Find a bug (and fix it)
+
+Look at the link:findbug.py[following program], written in Python. Find the bug/s in it, and fix it/them.
+
+Try to keep the original program structure, just fix the bug/s (do not rewrite the whole program).
+
+== Task -- Find a bug (and fix it)... again.
+
+Look at the link:oh-my-not-again.py[following program], written in Python. Find the bug/s in it, and fix it/them.
+
+== Homework
+
+Find one open source project, and fix something in it. Send me the link of your pull request.
+
+Note:
+
+* There are *a lot* of open source projects on https://github.com[GitHub].
+** *Almost* any repository you can read is "open source".
+* "Anything" includes typos, spelling mistakes, adding/rewriting documentation, but also writing code.
+** A lot of projects have a "starter" or "beginner" tag for issues. Look for those.
+* Don't be afraid to talk to the people managing the project!
+* Example of a "beginner PR": https://github.com/tensorflow/tensorflow/pull/5192
+
