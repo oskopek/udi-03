@@ -22,16 +22,3 @@ Try to keep the original program structure, just fix the bug/s (do not rewrite t
 
 Look at the link:oh-my-not-again.py[following program], written in Python. Find the bug/s in it, and fix it/them.
 
-== Homework
-
-Find one open source project, and fix something in it. Send me the link of your pull request.
-
-Note:
-
-* There are *a lot* of open source projects on https://github.com[GitHub].
-** *Almost* any repository you can read is "open source".
-* "Anything" includes typos, spelling mistakes, adding/rewriting documentation, but also writing code.
-** A lot of projects have a "starter" or "beginner" tag for issues. Look for those.
-* Don't be afraid to talk to the people managing the project!
-* Example of a "beginner PR": https://github.com/tensorflow/tensorflow/pull/5192
-

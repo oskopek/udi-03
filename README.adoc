@@ -1,14 +1,14 @@
-= udi-02
+= udi-03
 
 == Goals
 
-* Revise Git & GitHub + get to know Open Source
+* Revise Python, pytest.
 * Learn why we read code, why we write readable code and how to read code
 * Learn about programming languages and try some of them out in the second assignment.
 
 == Tasks
 
-* Check you have Git installed and configured on your machine.
+* Check you have Git, Python, pytest installed and configured on your machine.
 * link:assignment.adoc[Solve the assignment]
 ** Commit early, commit often.
 ** Backup your work! (`git push`)
@@ -16,7 +16,7 @@
 
 == Feedback
 
-Please, fill in the https://docs.google.com/forms/d/e/1FAIpQLSfLlosqmgiz9rvGV4zFKkvHpwwxB9sDYJus_tlZN2nGIOLEew/viewform[feedback form].
+Please, fill in the https://docs.google.com/forms/d/e/1FAIpQLSeIB0PtjKP9fBZioL3LnMKzMoGrsuFW7oRE6adnIIMEt9sAwA/viewform[feedback form].
 
 == Notes
 
