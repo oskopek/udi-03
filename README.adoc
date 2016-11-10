@@ -3,8 +3,8 @@
 == Goals
 
 * Revise Python, pytest.
-* Learn why we read code, why we write readable code and how to read code
-* Learn about programming languages and try some of them out in the second assignment.
+* Learn why we read code, why we write readable code and how to read code.
+* Finish up assignments from udi-02.
 
 == Tasks
 

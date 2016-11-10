@@ -1,4 +1,4 @@
-= Assignment 02
+= Assignment 03
 
 == Task -- Translation
 
@@ -8,8 +8,6 @@ Write a program that acts exactly the same as the link:translate_me.pas[provided
 
 *Hint*: "Translate" does not mean you have to rewrite it line by line.
 
-If you only know Pascal, try translating link:translate_me.py[this one] into Pascal.
-
 Remember to commit and push your work.
 
 == Task -- Find a bug (and fix it)
@@ -18,7 +16,7 @@ Look at the link:findbug.py[following program], written in Python. Find the bug/
 
 Try to keep the original program structure, just fix the bug/s (do not rewrite the whole program).
 
-== Task -- Find a bug (and fix it)... again.
+== Task -- Find a bug (and fix it)... again
 
 Look at the link:oh-my-not-again.py[following program], written in Python. Find the bug/s in it, and fix it/them.
 
